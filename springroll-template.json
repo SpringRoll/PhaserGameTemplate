@@ -1,7 +1,7 @@
 {
 	"name": "Phaser Game",
 	"id": "io.springroll.phaser-game",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"extend": "io.springroll.default",
 	"github": "SpringRoll/PhaserGameTemplate",
 	"required": [
@@ -16,8 +16,7 @@
 			"main": "components/phaser/build/phaser.min.js",
 			"mainDebug": "components/phaser/build/phaser.js",
 			"bower": {
-				"phaser": "*",
-				"springroll": "master"
+				"phaser": "*"
 			}
 		}
 	]
